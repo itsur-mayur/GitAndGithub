@@ -14,4 +14,5 @@ A calculator that calculates simple interest given the principal, annual rate of
 
 ---
 
-© 2025 itsur-mayur Inc.
+© 2025 itsur-mayur Inc .
+i am going to add something so that to merge branches
